@@ -26,3 +26,5 @@ def test_sum_tuple():
     
 #The test results were mixed bieng half failed an dhalf no fail
 #The test results mean that there is or is not a error
+#When looking at what test results mean after doing the assignment was the question is the program working or not
+#And it was a statment to me to fix whatevers not working
